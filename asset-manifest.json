@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SalloumOk/OSReactPortfolio.git/static/css/main.11fd473a.css",
+    "main.js": "/SalloumOk/OSReactPortfolio.git/static/js/main.41d11232.js",
+    "static/js/787.015f6719.chunk.js": "/SalloumOk/OSReactPortfolio.git/static/js/787.015f6719.chunk.js",
+    "static/media/logo-s1.png": "/SalloumOk/OSReactPortfolio.git/static/media/logo-s1.80a4cc190df7ed2b97aa.png",
+    "index.html": "/SalloumOk/OSReactPortfolio.git/index.html",
+    "static/media/CoolveticaRg-Regular.woff2": "/SalloumOk/OSReactPortfolio.git/static/media/CoolveticaRg-Regular.31d6cfe0d16ae931b73c.woff2",
+    "static/media/LaBelleAurore.woff2": "/SalloumOk/OSReactPortfolio.git/static/media/LaBelleAurore.31d6cfe0d16ae931b73c.woff2",
+    "static/media/helvetica-neu.ttf": "/SalloumOk/OSReactPortfolio.git/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
+    "main.11fd473a.css.map": "/SalloumOk/OSReactPortfolio.git/static/css/main.11fd473a.css.map",
+    "main.41d11232.js.map": "/SalloumOk/OSReactPortfolio.git/static/js/main.41d11232.js.map",
+    "787.015f6719.chunk.js.map": "/SalloumOk/OSReactPortfolio.git/static/js/787.015f6719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11fd473a.css",
+    "static/js/main.41d11232.js"
+  ]
+}
